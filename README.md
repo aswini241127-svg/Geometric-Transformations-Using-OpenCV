@@ -190,9 +190,10 @@ plt.show()
 
 ### Image Rotation
 - Original image is displayed  
-- 45° rotated image is displayed  
+- 45° rotated image is displayed
+- <img width="947" height="540" alt="image" src="https://github.com/user-attachments/assets/d5b97c7e-81b6-41ad-9d11-c59040cc0c5c" />
 - 90° rotated image is displayed  
-<img width="947" height="540" alt="image" src="https://github.com/user-attachments/assets/d5b97c7e-81b6-41ad-9d11-c59040cc0c5c" />
+
 <img width="867" height="530" alt="image" src="https://github.com/user-attachments/assets/53950a0a-7ad9-4f63-9fbb-a121417a7b96" />
 
 ---
